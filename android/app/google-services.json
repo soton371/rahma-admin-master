@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "871959113201",
+    "project_id": "rahma-dd2c6",
+    "storage_bucket": "rahma-dd2c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871959113201:android:be9530b0cc7ef66aac6850",
+        "android_client_info": {
+          "package_name": "com.example.check_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871959113201-7o0jmnat5uj4ff2vmh2klof7co5mfal0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.check_location",
+            "certificate_hash": "1877d839f0bac0f1761d27a6fe359f1bda3b29e3"
+          }
+        },
+        {
+          "client_id": "871959113201-bcc40gcf4j5oio2fcaeujplpslumi2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQu9LMBfbELaWAx6XsZrWGo4bqUrtQ800"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871959113201-bcc40gcf4j5oio2fcaeujplpslumi2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871959113201:android:a89685bc1b257015ac6850",
+        "android_client_info": {
+          "package_name": "com.smartsoftware.rahma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871959113201-7moic47rt3vrle9cpuch28o7q91npoj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartsoftware.rahma",
+            "certificate_hash": "1877d839f0bac0f1761d27a6fe359f1bda3b29e3"
+          }
+        },
+        {
+          "client_id": "871959113201-bcc40gcf4j5oio2fcaeujplpslumi2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQu9LMBfbELaWAx6XsZrWGo4bqUrtQ800"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871959113201-bcc40gcf4j5oio2fcaeujplpslumi2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871959113201:android:a046ae3110113271ac6850",
+        "android_client_info": {
+          "package_name": "com.smartsoftware.rahma_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871959113201-bcc40gcf4j5oio2fcaeujplpslumi2j6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQu9LMBfbELaWAx6XsZrWGo4bqUrtQ800"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871959113201-bcc40gcf4j5oio2fcaeujplpslumi2j6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
